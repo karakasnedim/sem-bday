@@ -1,0 +1,19 @@
+{
+  "name": "happy-birthday-master",
+  "version": "1.0.0",
+  "description": "🎂 Responsive Birthday Card - Made with Jquery and CSS (Has many easter eggs too :-)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karakasnedim/sem-bday.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karakasnedim/sem-bday/issues"
+  },
+  "homepage": "https://github.com/karakasnedim/sem-bday#readme"
+}
