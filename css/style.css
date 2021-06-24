@@ -84,7 +84,7 @@ p:first-child {
 }
 
 p.signed {
-  margin-top: 1.5em;
+  margin-top: 0.5em;
   text-align: center;
 font-family: 'Indie Flower', cursive;
   font-size: 1em;
